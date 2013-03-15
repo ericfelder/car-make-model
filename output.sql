@@ -120,5 +120,13 @@ INSERT INTO cars (year, make, model) VALUES
 ('2013', 'Chevrolet', 'Tahoe'),
 ('2013', 'Chevrolet', 'Traverse'),
 ('2013', 'Chevrolet', 'Volt'),
+('2014', 'Chevrolet', 'Caprice'),
+('2014', 'Chevrolet', 'Camaro'),
+('2014', 'Chevrolet', 'Corvette'),
+('2014', 'Chevrolet', 'Cruze'),
 ('2014', 'Chevrolet', 'Impala'),
-('2014', 'Chevrolet', 'SS');
+('2014', 'Chevrolet', 'Malibu'),
+('2014', 'Chevrolet', 'SS'),
+('2014', 'Chevrolet', 'Sonic'),
+('2014', 'Chevrolet', 'Spark'),
+('2014', 'Chevrolet', 'Volt');
