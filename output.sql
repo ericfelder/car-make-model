@@ -110,7 +110,6 @@ INSERT INTO cars (year, make, model) VALUES
 ('2013', 'Chevrolet', 'Caprice'),
 ('2013', 'Chevrolet', 'Captiva Sport'),
 ('2013', 'Chevrolet', 'Camaro'),
-('2013', 'Chevrolet', 'Colorado'),
 ('2013', 'Chevrolet', 'Commercial'),
 ('2013', 'Chevrolet', 'Corvette'),
 ('2013', 'Chevrolet', 'Cruze'),
