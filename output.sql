@@ -80,6 +80,7 @@ INSERT INTO cars (year, make, model) VALUES
 ('2010', 'Chevrolet', 'Malibu'),
 ('2011', 'Chevrolet', 'Avalanche'),
 ('2011', 'Chevrolet', 'Camaro'),
+('2011', 'Chevrolet', 'Caprice'),
 ('2011', 'Chevrolet', 'Corvette'),
 ('2011', 'Chevrolet', 'Cruze'),
 ('2011', 'Chevrolet', 'Equinox'),
